@@ -33,6 +33,8 @@ All the required functions to interact with the token and log transactions were 
 ![5211135961596033775](https://github.com/user-attachments/assets/f5b14548-0f77-43d2-a15d-fa277fb2e257)
 
 Human Readable Code 
+![5271703448670301581](https://github.com/user-attachments/assets/7150cc08-0755-4a3e-909f-8e4d69bd3fa4)
+![5271703448670301580](https://github.com/user-attachments/assets/deab78dc-ff0b-47e5-9e09-227946f58a26)
 
 
 Bonus Part:
