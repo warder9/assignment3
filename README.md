@@ -33,18 +33,14 @@ All the required functions to interact with the token and log transactions were 
 ![5211135961596033775](https://github.com/user-attachments/assets/f5b14548-0f77-43d2-a15d-fa277fb2e257)
 
 Human Readable Code 
-![5267491640531085831](https://github.com/user-attachments/assets/dfab799c-9445-465f-a91d-0c0d100020a1)
-![5267491640531085832](https://github.com/user-attachments/assets/b60f6a06-2023-42b5-bcd7-0484750026a6)
-![5267491640531085833](https://github.com/user-attachments/assets/41c54dc0-e608-452a-a4f4-7b0cd0ce50eb)
-![5267491640531085834](https://github.com/user-attachments/assets/b8419d4b-00c1-445f-8a1b-c9bc06d6971b)
-![5267491640531085838](https://github.com/user-attachments/assets/55f94115-c2e4-481f-b182-6b1ecccb8b95)
+
 
 Bonus Part:
-![Безымянный](https://github.com/user-attachments/assets/b2a82b7b-cf14-458d-9bcc-299d564d4407)
-![Безымянныйq](https://github.com/user-attachments/assets/84b2f733-018a-4418-9e8b-ce06d4676741)
-![Безымянныйaq](https://github.com/user-attachments/assets/9108c428-b77b-40ff-b120-4d8505d39b33)
+![Безымянный222](https://github.com/user-attachments/assets/d0ffe144-b505-48a9-a412-ab4f5f4356e0)
 
+![Безымянный](https://github.com/user-attachments/assets/51c01ca5-1563-4d9d-af49-25dfdede132f)
 
+![Безымянный2223](https://github.com/user-attachments/assets/cc17e04f-2e0e-4300-ab25-af78c59d498a)
 
 
 
